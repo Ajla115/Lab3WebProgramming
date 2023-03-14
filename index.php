@@ -1,4 +1,4 @@
-# Lab3WebProgramming
+
 
 <?php 
 //first way of creating an array
@@ -36,11 +36,4 @@ $arr4 = [1, 2, 3];
 $arr5 = [4, 5, 6];
 $arr6 = [...$arr4, ...$arr5];
 var_dump($arr6);
-?>
-
-
-
-
-
-
 ?>
